@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi👋, I'm Efrat Bitton:)
+A Data Analyst from Israel 👩🏻‍💻
 
+🔭 I’m currently working on improving myself! 😁
+📫 How to reach me Efrat5527@gmail.com
 <!--
 **EfratBitton/EfratBitton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
